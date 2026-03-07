@@ -6,7 +6,7 @@ public class parcialProgra {
 		
 	
 		try {
-			//tablaMultiplicar();
+		    tablaMultiplicar();
 			promedioCalificaciones();
 			
 			
